@@ -13,7 +13,7 @@ namespace Demo1
             Console.WriteLine("Hello World 1");
             int a = 6;
             int b = 7;
-            Console.WriteLine(a + b);
+            Console.WriteLine("Ket qua tinh tong =" + (a + b));
             Console.ReadLine();
         }
     }
