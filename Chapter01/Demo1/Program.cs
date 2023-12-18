@@ -11,6 +11,9 @@ namespace Demo1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World 1");
+            int a = 6;
+            int b = 7;
+            Console.WriteLine(a + b);
             Console.ReadLine();
         }
     }
