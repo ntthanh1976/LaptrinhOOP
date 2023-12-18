@@ -1,0 +1,7 @@
+D:\NTTHANH\MaNguon\Chapter01\Demo1\bin\Debug\Demo1.exe.config
+D:\NTTHANH\MaNguon\Chapter01\Demo1\bin\Debug\Demo1.exe
+D:\NTTHANH\MaNguon\Chapter01\Demo1\bin\Debug\Demo1.pdb
+D:\NTTHANH\MaNguon\Chapter01\Demo1\obj\Debug\Demo1.csproj.AssemblyReference.cache
+D:\NTTHANH\MaNguon\Chapter01\Demo1\obj\Debug\Demo1.csproj.CoreCompileInputs.cache
+D:\NTTHANH\MaNguon\Chapter01\Demo1\obj\Debug\Demo1.exe
+D:\NTTHANH\MaNguon\Chapter01\Demo1\obj\Debug\Demo1.pdb
